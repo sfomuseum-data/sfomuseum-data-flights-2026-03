@@ -1,0 +1,72 @@
+{
+  "id": 2014918717,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-03-01",
+    "date:inception_upper": "2026-03-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-03-01",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "QF",
+    "flysfo:date": "2026-03-01",
+    "flysfo:estimated_timestamp": 1772420400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "QF6001",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-LAS",
+    "flysfo:scheduled_timestamp": 1772420400,
+    "flysfo:timestamp": 1772420400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.081003,-115.156440,37.617990",
+    "geom:latitude": 36.8494965,
+    "geom:longitude": -118.7636915,
+    "iata:airline": "QF",
+    "icao:airline": "QFA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285043,
+    "sfomuseum:arrival_id": 102527209,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260301-D-QFA-6001",
+    "sfomuseum:flight_number": [
+      "QFA6001",
+      "QF6001"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1772468026,
+    "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2014918717,
+        "flight_id": 2014918717
+      }
+    ],
+    "wof:id": 2014918717,
+    "wof:involves": [
+      102527209,
+      102527513,
+      1159285043,
+      -1
+    ],
+    "wof:lastmodified": 1772468026,
+    "wof:name": "QF6001 (SFO-LAS)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    36.081003,
+    -115.15644,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}
+}
