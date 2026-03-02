@@ -2,10 +2,12 @@
   "id": 2014916171,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-03-01",
-    "date:inception_upper": "2026-03-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-03-01",
+    "date:cessation_lower": "2026-03-01",
+    "date:cessation_upper": "2026-03-01",
+    "date:inception_lower": "2026-03-02",
+    "date:inception_upper": "2026-03-02",
+    "edtf:cessation": "2026-03-01T13:01:00Z",
+    "edtf:inception": "2026-03-01T16:26:16-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.65686,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "CSN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102528659,
     "sfomuseum:base_flight_id": "20260301-D-CSN-1638",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N128AN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "140513086"
+    },
     "wof:country": "US",
     "wof:created": 1772467739,
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2014916171,
     "wof:involves": [
-      102528659,
-      102527513,
       1159283849,
       1947304281,
-      1159284165
+      1159284165,
+      1159289411,
+      102528659,
+      102527513
     ],
-    "wof:lastmodified": 1772467739,
+    "wof:lastmodified": 1772468229,
     "wof:name": "AA1476 (SFO-CLT)",
     "wof:parent_id": 1947304281,
     "wof:placetype": "custom",

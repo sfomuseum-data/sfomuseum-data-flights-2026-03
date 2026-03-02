@@ -2,10 +2,12 @@
   "id": 2014919483,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-03-02",
+    "date:cessation_upper": "2026-03-02",
     "date:inception_lower": "2026-03-01",
     "date:inception_upper": "2026-03-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-03-01",
+    "edtf:cessation": "2026-03-02T01:21:00Z",
+    "edtf:inception": "2026-03-01T04:13:14-08:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-03-01",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620818,
     "lbl:longitude": -122.389182,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530049,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N21108",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +56,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "140555559"
+    },
     "wof:country": "US",
     "wof:created": 1772468113,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -83,12 +94,13 @@
     ],
     "wof:id": 2014919483,
     "wof:involves": [
+      1159289939,
       102530049,
       102527513,
       1159285413,
       1947304455
     ],
-    "wof:lastmodified": 1772468113,
+    "wof:lastmodified": 1772468217,
     "wof:name": "UA3900 (SFO-EWR)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

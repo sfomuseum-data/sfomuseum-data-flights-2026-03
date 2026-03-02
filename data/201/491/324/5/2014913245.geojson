@@ -2,10 +2,12 @@
   "id": 2014913245,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-03-02",
+    "date:cessation_upper": "2026-03-02",
     "date:inception_lower": "2026-03-01",
     "date:inception_upper": "2026-03-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-03-01",
+    "edtf:cessation": "2026-03-01T23:06:01-08:00",
+    "edtf:inception": "2026-03-01T10:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "FJI",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260301-A-FJI-5807",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N703AL",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "140514226"
+    },
     "wof:country": "US",
     "wof:created": 1772467405,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2014913245,
     "wof:involves": [
+      1377564285,
       102527513,
       102533997,
       1159283813,
       1947304303,
       1159283717
     ],
-    "wof:lastmodified": 1772467405,
+    "wof:lastmodified": 1772468201,
     "wof:name": "AS288 (HNL-SFO)",
     "wof:parent_id": 1947304303,
     "wof:placetype": "custom",

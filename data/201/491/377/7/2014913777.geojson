@@ -2,10 +2,12 @@
   "id": 2014913777,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-03-01",
+    "date:cessation_upper": "2026-03-01",
     "date:inception_lower": "2026-03-01",
     "date:inception_upper": "2026-03-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-03-01",
+    "edtf:cessation": "2026-03-01T15:07:03-08:00",
+    "edtf:inception": "2026-03-01T02:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260301-A-AFR-5742",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N576DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "140504078"
+    },
     "wof:country": "US",
     "wof:created": 1772467467,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -88,13 +99,14 @@
     ],
     "wof:id": 2014913777,
     "wof:involves": [
+      1159283627,
+      1377564297,
       102527513,
       102525635,
       1159284261,
-      1763588251,
-      1159283627
+      1763588251
     ],
-    "wof:lastmodified": 1772467467,
+    "wof:lastmodified": 1772468203,
     "wof:name": "DL509 (DTW-SFO)",
     "wof:parent_id": 1763588251,
     "wof:placetype": "custom",
