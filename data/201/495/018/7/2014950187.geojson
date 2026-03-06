@@ -1,0 +1,72 @@
+{
+  "id": 2014950187,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-03-05",
+    "date:inception_upper": "2026-03-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-03-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2026-03-05",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AS9888",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-OAK",
+    "flysfo:scheduled_timestamp": 1772767800,
+    "flysfo:timestamp": 1772767800,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.212464,37.721310",
+    "geom:latitude": 37.669650000000004,
+    "geom:longitude": -122.2917035,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102531041,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260305-D-ASA-9888",
+    "sfomuseum:flight_number": [
+      "ASA9888",
+      "AS9888"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1772813501,
+    "wof:geomhash": "8933d78fb39ee159acf7eb0738f97ef5",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2014950187,
+        "flight_id": 2014950187
+      }
+    ],
+    "wof:id": 2014950187,
+    "wof:involves": [
+      102531041,
+      102527513,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1772813501,
+    "wof:name": "AS9888 (SFO-OAK)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -122.212464,
+    37.72131
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.212464,37.72131]],"type":"MultiPoint"}
+}
