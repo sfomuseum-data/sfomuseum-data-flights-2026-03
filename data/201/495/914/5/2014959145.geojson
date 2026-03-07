@@ -1,0 +1,72 @@
+{
+  "id": 2014959145,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-03-06",
+    "date:inception_upper": "2026-03-06",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-03-06",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2026-03-06",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AS292R",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-EWR",
+    "flysfo:scheduled_timestamp": 1772827200,
+    "flysfo:timestamp": 1772827200,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-74.177526,40.691243",
+    "geom:latitude": 39.1546165,
+    "geom:longitude": -98.2742345,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102530049,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260306-D-ASA-292R",
+    "sfomuseum:flight_number": [
+      "ASA292R",
+      "AS292R"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1772899886,
+    "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2014959145,
+        "flight_id": 2014959145
+      }
+    ],
+    "wof:id": 2014959145,
+    "wof:involves": [
+      102530049,
+      102527513,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1772899886,
+    "wof:name": "AS292R (SFO-EWR)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -74.177526,
+    40.691243
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}
+}
