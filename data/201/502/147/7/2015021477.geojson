@@ -1,0 +1,72 @@
+{
+  "id": 2015021477,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-03-13",
+    "date:inception_upper": "2026-03-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-03-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-03-13",
+    "flysfo:estimated_timestamp": 1773441000,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL4181",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-PSC",
+    "flysfo:scheduled_timestamp": 1773441000,
+    "flysfo:timestamp": 1773441000,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-119.115996,46.250133",
+    "geom:latitude": 41.9340615,
+    "geom:longitude": -120.7434695,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102526859,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260313-D-DAL-4181",
+    "sfomuseum:flight_number": [
+      "DAL4181",
+      "DL4181"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1773504813,
+    "wof:geomhash": "d9f9fb32305e7b36d764a406914a8e83",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2015021477,
+        "flight_id": 2015021477
+      }
+    ],
+    "wof:id": 2015021477,
+    "wof:involves": [
+      102526859,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1773504813,
+    "wof:name": "DL4181 (SFO-PSC)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -119.115996,
+    46.250133
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.115996,46.250133]],"type":"MultiPoint"}
+}

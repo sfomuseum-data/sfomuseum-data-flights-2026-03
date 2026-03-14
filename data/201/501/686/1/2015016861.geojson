@@ -1,0 +1,72 @@
+{
+  "id": 2015016861,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-03-13",
+    "date:inception_upper": "2026-03-13",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-03-13",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2026-03-13",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AS788",
+    "flysfo:gate": "",
+    "flysfo:journey": "KOA-SFO",
+    "flysfo:scheduled_timestamp": 1773410640,
+    "flysfo:timestamp": 1773410640,
+    "geom:area": 0,
+    "geom:bbox": "-156.035060,19.732444,-122.370943,37.617990",
+    "geom:latitude": 28.675217,
+    "geom:longitude": -139.2030015,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102532939,
+    "sfomuseum:flight_id": "20260313-A-ASA-788",
+    "sfomuseum:flight_number": [
+      "ASA788",
+      "AS788"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1773504234,
+    "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2015016861,
+        "flight_id": 2015016861
+      }
+    ],
+    "wof:id": 2015016861,
+    "wof:involves": [
+      102527513,
+      102532939,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1773504234,
+    "wof:name": "AS788 (KOA-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -156.03506,
+    19.732444,
+    -122.370943,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-156.03506,19.732444],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
