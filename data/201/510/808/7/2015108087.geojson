@@ -1,0 +1,72 @@
+{
+  "id": 2015108087,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-03-24",
+    "date:inception_upper": "2026-03-24",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-03-24",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AS",
+    "flysfo:date": "2026-03-24",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AS9792",
+    "flysfo:gate": "",
+    "flysfo:journey": "SBP-SFO",
+    "flysfo:scheduled_timestamp": 1774391400,
+    "flysfo:timestamp": 1774391400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.236920,-120.643230,37.617990",
+    "geom:latitude": 36.427454999999995,
+    "geom:longitude": -121.5070865,
+    "iata:airline": "AS",
+    "icao:airline": "ASA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527351,
+    "sfomuseum:flight_id": "20260324-A-ASA-9792",
+    "sfomuseum:flight_number": [
+      "ASA9792",
+      "AS9792"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1774454653,
+    "wof:geomhash": "2af895d7dc7816e28cbc6da81f2a802b",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2015108087,
+        "flight_id": 2015108087
+      }
+    ],
+    "wof:id": 2015108087,
+    "wof:involves": [
+      102527513,
+      102527351,
+      1159283813,
+      -1
+    ],
+    "wof:lastmodified": 1774454653,
+    "wof:name": "AS9792 (SBP-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-03",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.23692,
+    -120.64323,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-120.64323,35.23692],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
